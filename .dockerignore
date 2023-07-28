@@ -1,0 +1,6 @@
+FROM node: 16
+dist/
+node_modules/
+Dockerfile
+.dockerignore
+npm-debug.log
